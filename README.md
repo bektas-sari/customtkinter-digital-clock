@@ -55,6 +55,8 @@ This project is open-source and available under the **MIT License**.
 
 ---
 💡 *Feel free to contribute or suggest new features!*
+Mail: bektas.sari@gmail.com
+LinkedIn: www.linkedin.com/in/bektas-sari
 
 🔗 **GitHub Repository**: [bektas-sari]
 🔗 **Mail**: bektas.sari@gmail.com
