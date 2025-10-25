@@ -66,7 +66,5 @@ Flutter Developer & Software Educator<br>
 - **Researchgate:** [researchgate.net/profile/Bektas-Sari-3](https://www.researchgate.net/profile/Bektas-Sari-3)  
 - **Academia:** [independent.academia.edu/bektassari](https://independent.academia.edu/bektassari)
 
-🔗 **GitHub Repository**: [bektas-sari]
-🔗 **Mail**: bektas.sari@gmail.com
 
 
